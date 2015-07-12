@@ -1,0 +1,3 @@
+SANITY_VERSION 1
+TMPDIR /home/marcos/workspace/yocto/build/tmp
+SSTATE_DIR /home/marcos/workspace/yocto/build/sstate-cache
